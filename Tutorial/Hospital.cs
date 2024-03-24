@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Doctor doctor1 = new Doctor("kavindu",2001,"aaa");
+            Doctor doctor1 = new Doctor("DHudha",2001,"aaa");
             
 
             Doctor doctor2 = new Doctor("Charith",2003,"bbb");
